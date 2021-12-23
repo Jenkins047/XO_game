@@ -1,0 +1,1 @@
+gcc -ansi -Wall main.c tickTackToe.c
